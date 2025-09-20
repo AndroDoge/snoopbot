@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  telegram-passive-bot:
+    build: .
+    container_name: telegram-passive-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./session_data:/app
+      - ./botdata:/app
