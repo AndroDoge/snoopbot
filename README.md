@@ -264,5 +264,5 @@ Use only for lawful monitoring of publicly accessible broadcast information. Doe
 ## 🧡 Final Note
 “Set three values, send a link, reply yes — everything else is self-governing.”
 
-Happy secure monitoring!  
-Questions or need metrics / verifier script? Just extend.
+Happy secure snooping!  
+Made with Love and Linux only for educational purposes.
